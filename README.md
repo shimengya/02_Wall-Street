@@ -18,13 +18,13 @@ Based on the timing below. My PC is very good. :)
 ## Summary
 
 - What are the advantages of refactoring code?
-It's easily readable and understandable with comments. 
+ - It's easily readable and understandable with comments. 
 
 - What are the disadvantages of refactoring code?
-The original dataset has been filtered and sorted, which saves time to write scripts. However, as a beginner, I don't have enough examples to practice with raw data.
+ - The original dataset has been filtered and sorted, which saves time to write scripts. However, as a beginner, I don't have enough examples to practice with raw data.
 
 - How do these pros and cons apply to refactoring the original VBA script?
-I got a great start with the refactoring the original VBA scripts. In the meantime, I should push myself to spend more time on more researching and apply different ideas with real scenarios.
+ - I got a great start with the refactoring the original VBA scripts. In the meantime, I should push myself to spend more time on more researching and apply different ideas with real scenarios.
 
 [Challenge Solution](Challenge_Solution): The solution files for the module's challenge assignment are located in this folder.
 
