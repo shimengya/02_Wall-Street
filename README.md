@@ -2,12 +2,34 @@
 
 Explore green energy stock performance by analyzing financial data using VBA.
 
-## Challenge Solution
+##Purpose of this analysis
+This VBA helps to subtotal daily trading volume of each stock and also provided yearly yield based on the closed price on the first trading day and the last trading day over the year when the user requests.
 
-[Challenge Solution](Challenge_Solution): The solution files for the module's challenge assignment are located in this folder.
+On the other hand, the VBA also gives a timing it consumes for the macro.
+
+##Results: Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
 [VBA_Challenge](/VBA_Challenge.xlsm)
+Once the returns are positive, the cells would show in green and when the returns are negative, the cells would show in red. Per the result compared between 2017 returns and 2018 returns, it easily concludes that most stocks performs much better in 2017 than in 2018.
+
+Based on the timing below. My PC is very good. :)
 ![VBA_Challenge_2017](/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](/VBA_Challenge_2018.png)
+
+##Summary
+
+- What are the advantages of refactoring code?
+It's easily readable and understandable with comments. 
+
+- What are the disadvantages of refactoring code?
+The original dataset has been filtered and sorted, which saves time to write scripts. However, as a beginner, I don't have enough examples to practice with raw data.
+
+- How do these pros and cons apply to refactoring the original VBA script?
+I got a great start with the refactoring the original VBA scripts. In the meantime, I should push myself to spend more time on more researching and apply different ideas with real scenarios.
+
+[Challenge Solution](Challenge_Solution): The solution files for the module's challenge assignment are located in this folder.
+
+
+## Challenge Solution
 
 Sub AllStocksAnalysisRefactored()
     
