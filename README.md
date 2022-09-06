@@ -188,6 +188,7 @@ End Sub
 [Module Solution](Module_Solution): Any module demos or solution files for the module async content are located in this folder.
 
 [VBA_Module_Challenge](/ VBA_Module_Challenge.xlsm)
+
 ![VBA_Module_2017](/VBA_Module_2017.png)
 ![VBA_Module_2018](/VBA_Module_2018.png)
 
