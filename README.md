@@ -8,8 +8,7 @@ This VBA helps to subtotal daily trading volume of each stock and also provided 
 On the other hand, the VBA also gives a timing it consumes for the macro.
 
 ## Results: Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
-[VBA_Challenge](/VBA_Challenge.xlsm)
-Once the returns are positive, the cells would show in green and when the returns are negative, the cells would show in red. Per the result compared between 2017 returns and 2018 returns, it easily concludes that most stocks performs much better in 2017 than in 2018.
+Once the returns are positive, the cells would show in green and when the returns are negative, the cells would show in red. Per the result compared between 2017 returns and 2018 returns, it easily concludes that most stocks performs much better in 2017 than in 2018.[VBA_Challenge](/VBA_Challenge.xlsm)
 
 Based on the timing below. My PC is very good. :)
 
